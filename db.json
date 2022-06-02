@@ -3,7 +3,7 @@
     {
       "id": 1,
       "model": "City",
-      "make": 'Honda',
+      "make": "Honda",
       "sales": 200
     }
   ]
