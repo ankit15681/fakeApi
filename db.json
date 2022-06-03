@@ -2,9 +2,39 @@
   "cars": [
     {
       "id": 1,
+      "model": "i20",
+      "make": "Hyundai",
+      "sales": 600
+    },
+    {
+      "id":2 ,
+      "model": "Verna",
+      "make": "Hyundai",
+      "sales": 200
+    },
+    {
+      "id": 3,
+      "model": "Elantra",
+      "make": "Hyundai",
+      "sales": 50
+    },
+    {
+      "id": 4,
       "model": "City",
       "make": "Honda",
       "sales": 200
-    }
+    },
+    {
+      "id": 5,
+      "model": "BRV",
+      "make": "Honda",
+      "sales": 300
+    },
+    {
+      "id": 1,
+      "model": "Jazz",
+      "make": "Honda",
+      "sales": 500
+    },
   ]
 }
